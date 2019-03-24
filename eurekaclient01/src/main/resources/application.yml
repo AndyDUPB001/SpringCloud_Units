@@ -1,0 +1,10 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8221/eureka/
+
+server:
+  port: 8222
+spring:
+  application:
+    name: service-hello
