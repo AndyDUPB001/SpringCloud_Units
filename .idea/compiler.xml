@@ -10,6 +10,7 @@
         <module name="eurekaclient01" />
         <module name="eurekaclient02" />
         <module name="eurekaserver" />
+        <module name="feignclient" />
         <module name="ribbonclient" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="eurekaclient01" options="-parameters" />
       <module name="eurekaclient02" options="-parameters" />
       <module name="eurekaserver" options="-parameters" />
+      <module name="feignclient" options="-parameters" />
       <module name="ribbonclient" options="-parameters" />
     </option>
   </component>
