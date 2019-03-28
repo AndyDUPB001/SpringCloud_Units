@@ -8,7 +8,7 @@ server:
 
 spring:
   application:
-    name: ribbon-consumer
+    name: service-ribbon
 
 providers:
   ribbon:

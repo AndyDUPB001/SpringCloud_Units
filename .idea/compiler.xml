@@ -12,6 +12,7 @@
         <module name="eurekaserver" />
         <module name="feignclient" />
         <module name="ribbonclient" />
+        <module name="zuulclient" />
       </profile>
     </annotationProcessing>
   </component>
@@ -22,6 +23,7 @@
       <module name="eurekaserver" options="-parameters" />
       <module name="feignclient" options="-parameters" />
       <module name="ribbonclient" options="-parameters" />
+      <module name="zuulclient" options="-parameters" />
     </option>
   </component>
 </project>
